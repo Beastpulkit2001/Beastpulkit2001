@@ -9,7 +9,7 @@
 
 <h1>🌟 Pulkit Sharma 🌟</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&pause=1000&color=1E90FF&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Practitioner;Data+Analyst;AI+Enthusiast;Turning+Data+Into+Intelligence" />
+<h1><img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&pause=1000&color=1E90FF&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Practitioner;Data+Analyst;AI+Enthusiast;Turning+Data+Into+Intelligence" /></h1>
 
 </div>
 
