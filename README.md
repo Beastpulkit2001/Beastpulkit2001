@@ -139,6 +139,16 @@ Passionate about transforming data into meaningful insights and building machine
 ![](https://github-readme-stats.vercel.app/api?username=Beastpulkit2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Beastpulkit2001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beastpulkit2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Beastpulkit2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Beastpulkit2001&theme=dark&hide_border=false" /><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beastpulkit2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Beastpulkit2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
