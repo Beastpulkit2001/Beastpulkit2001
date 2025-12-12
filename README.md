@@ -150,29 +150,6 @@ Passionate about transforming data into meaningful insights and building machine
 
 <hr/>
 
-<h2>✨ Animated Tech Icons</h2>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="55">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55">
-<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="55">
-<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="55">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55">
-</div>
-
-<hr/>
-
-<h2>💫 Fun Animated Section</h2>
-
-<h3 align="center">✨ Coding is Magic</h3>
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
-</div>
-
 <h3 align="center">📈 Data + Machine Learning</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350">
