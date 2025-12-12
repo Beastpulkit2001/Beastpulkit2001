@@ -5,10 +5,6 @@
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
 
 
-<p align="center">
-  <a href="mailto:shsarv2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 <div align="center">
 
 <h1>🌟 Pulkit Sharma 🌟</h1>
