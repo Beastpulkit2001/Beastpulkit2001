@@ -4,8 +4,6 @@
 
 ### Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shsarv&label=Profile%20views&color=0e75b6&style=flat" alt="shsarv" /> </p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Pulkit+Sharma;A+Data+Scientist;A+FullStack+Developer;A+Learner;A+ML+Researcher;)](https://git.io/typing-svg)
 
 <p align="center">
