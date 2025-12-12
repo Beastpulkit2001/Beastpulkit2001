@@ -9,9 +9,178 @@
 <p align="center">
   <a href="mailto:shsarv2001@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-# 💫 About Me:
-👋 Hi, I'm Pulkit Sharma<br>🚀 Aspiring Data Scientist | Machine Learning Practitioner | Data Analyst | AI Enthusiast<br><br>Welcome to my GitHub! I’m passionate about leveraging data to build intelligent solutions that drive impact. My journey revolves around exploring complex datasets, transforming data into meaningful insights, and developing machine learning models that solve real-world challenges.<br><br>I enjoy the complete lifecycle of data science — from data collection and cleaning to analysis, modeling, visualization, and deployment.<br><br>🔥 About Me<br><br>🎓 Currently enhancing my skills in Data Science, Machine Learning, and AI<br><br>👨‍💻 Experienced in performing end-to-end data analysis using Python & SQL<br><br>📊 Love creating impactful dashboards that turn numbers into stories<br><br>📈 Strong foundation in statistics, probability, and analytical problem-solving<br><br>💡 Interested in automation, predicting trends, and building data-driven solutions<br><br>🧠 Constant learner exploring Deep Learning, NLP, and Big Data tools<br><br>🔧 What I Do<br>🧹 Data Cleaning & Preparation<br><br>Handling missing data, duplicates, and noisy records<br><br>Outlier detection using statistical & ML-based methods<br><br>Encoding categorical features, feature scaling & normalization<br><br>Feature engineering to improve model performance<br><br>🔍 Exploratory Data Analysis (EDA)<br><br>Identifying trends, patterns, correlations & anomalies<br><br>Statistical summaries (mean, variance, skewness, kurtosis, etc.)<br><br>Hypothesis testing: t-tests, chi-square tests, ANOVA<br><br>Building compelling visualizations to communicate insights<br><br>🤖 Machine Learning<br><br>Regression: Linear, Lasso, Ridge, Random Forest<br><br>Classification: Logistic Regression, SVM, Decision Trees, KNN, Naive Bayes<br><br>Clustering: K-Means, Hierarchical Clustering, DBSCAN<br><br>Model evaluation using accuracy, precision, recall, F1-score, ROC-AUC<br><br>Hyperparameter tuning (GridSearchCV, RandomSearchCV)<br><br>Deploying models with Flask / FastAPI<br><br>📊 Data Visualization & Dashboards<br><br>Interactive dashboards using Tableau, Power BI, Plotly, Streamlit<br><br>Business reporting and KPI monitoring<br><br>Visual storytelling with data<br><br>Building charts: heatmaps, histograms, scatterplots, boxplots, etc.<br><br>📁 Database & Backend<br><br>Writing optimized SQL queries<br><br>Working with relational databases<br><br>Data extraction through APIs<br><br>🛠️ Tech Stack<br><br>Programming:<br><br>Python, SQL, R<br><br>Data & ML Libraries:<br><br>Pandas, NumPy, Matplotlib, Seaborn<br><br>Scikit-Learn, TensorFlow, Keras<br><br>Statsmodels, SciPy<br><br>Visualization Tools:<br><br>Power BI, Tableau, Streamlit, Plotly<br><br>ML & Deployment Tools:<br><br>Jupyter Notebook, Google Colab, VS Code<br><br>Flask, FastAPI<br><br>Git & GitHub<br><br>Other Skills:<br><br>Data Wrangling<br><br>Statistical Modeling<br><br>Basic Deep Learning<br><br>API Integration<br><br>Excel Analysis & Pivot Tables<br><br>🌟 Featured Work & Interests<br><br>📘 Sentiment analysis projects using machine learning<br><br>📈 Sales, marketing, and customer analytics<br><br>🧠 Predictive modeling for business forecasting<br><br>🗂️ Data pipelines & automated reporting<br><br>🗣️ Natural Language Processing (NLP)<br><br>🎯 Competitive ML challenges (Kaggle & local datasets)<br><br>🎯 My Goals for 2025<br><br>Build advanced ML and AI projects from scratch<br><br>Contribute to open-source ML communities<br><br>Create a portfolio of dashboards & real-world case studies<br><br>Master deep learning and LLM-based solutions<br><br>Land a Data Scientist / ML Engineer role<br><br>🤝 Let’s Connect!<br><br>I’m always open to collaborating on data-driven projects, ML challenges, or dashboarding work. If you have an idea, feel free to reach out!
 
+<div align="center">
+
+<h1>🌟 Pulkit Sharma 🌟</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&pause=1000&color=1E90FF&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Practitioner;Data+Analyst;AI+Enthusiast;Turning+Data+Into+Intelligence" />
+
+</div>
+
+<h2>👋 Hi, I'm Pulkit Sharma</h2>
+<p>
+Passionate about transforming data into meaningful insights and building machine learning solutions that create measurable impact. I enjoy working across the full data lifecycle — from data cleaning and exploration to model development, dashboarding, and deployment.
+</p>
+
+<hr/>
+
+<h2>🔥 About Me</h2>
+<ul>
+  <li>🎓 Upskilling in <b>Data Science, Machine Learning & AI</b></li>
+  <li>👨‍💻 Experienced in <b>Python, SQL, and statistical analysis</b></li>
+  <li>📊 Skilled at building <b>interactive dashboards</b> & BI reports</li>
+  <li>📈 Strong command over <b>statistics & analytical problem-solving</b></li>
+  <li>🤖 Exploring <b>Deep Learning, NLP, Big Data & Automation</b></li>
+  <li>🧠 Dedicated to continuous learning & real-world project building</li>
+</ul>
+
+<hr/>
+
+<h2>🔧 What I Do</h2>
+
+<h3>🧹 Data Cleaning & Preparation</h3>
+<ul>
+  <li>Handling missing values, duplicates, inconsistencies</li>
+  <li>Outlier detection using statistical & ML techniques</li>
+  <li>Feature engineering, encoding & scaling</li>
+  <li>Transforming raw datasets into analysis-ready data</li>
+</ul>
+
+<h3>🔍 Exploratory Data Analysis (EDA)</h3>
+<ul>
+  <li>Statistical summaries & pattern discovery</li>
+  <li>Correlation analysis & distribution study</li>
+  <li>Hypothesis testing (t-test, chi-square, ANOVA)</li>
+  <li>Creating powerful visual insights</li>
+</ul>
+
+<h3>🤖 Machine Learning</h3>
+<ul>
+  <li><b>Regression:</b> Linear, Ridge, Lasso, Random Forest</li>
+  <li><b>Classification:</b> SVM, Logistic Regression, KNN, Decision Trees, Naive Bayes</li>
+  <li><b>Clustering:</b> K-Means, Hierarchical, DBSCAN</li>
+  <li>Model evaluation: Precision, Recall, F1, ROC-AUC</li>
+  <li>Hyperparameter tuning (GridSearchCV, RandomSearchCV)</li>
+  <li>Model deployment using <b>Flask</b> / <b>FastAPI</b></li>
+</ul>
+
+<h3>📊 Dashboards & Visualization</h3>
+<ul>
+  <li>Power BI, Tableau, Streamlit, Plotly</li>
+  <li>Interactive dashboards & KPI monitoring</li>
+  <li>Business intelligence storytelling</li>
+</ul>
+
+<h3>📁 Database & Backend</h3>
+<ul>
+  <li>SQL queries, joins, views, indexing</li>
+  <li>Relational database handling</li>
+  <li>API-based data extraction</li>
+</ul>
+
+<hr/>
+
+<h2>🛠️ Tech Stack</h2>
+
+<h3>Languages</h3>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
+</p>
+
+<h3>Libraries</h3>
+<p>Pandas · NumPy · Matplotlib · Seaborn · Scikit-Learn · TensorFlow · Keras · Statsmodels · SciPy</p>
+
+<h3>Tools</h3>
+<p>Jupyter · VS Code · Colab · Git · GitHub · Flask · FastAPI</p>
+
+<h3>Other Skills</h3>
+<p>Data Wrangling · Statistical Modeling · Deep Learning Basics · API Integration · Excel Pivot Tables</p>
+
+<hr/>
+
+<h2>🌟 Featured Work & Interests</h2>
+<ul>
+  <li>📘 Sentiment Analysis & NLP Projects</li>
+  <li>📈 Sales, Marketing & Business Analytics</li>
+  <li>🧠 Predictive Modeling & Forecasting</li>
+  <li>🗂️ Automated Data Pipelines</li>
+  <li>🎯 Machine Learning Competitions</li>
+</ul>
+
+<hr/>
+
+<h2>🎯 My Goals for 2025</h2>
+<ul>
+  <li>Develop advanced ML & AI case studies</li>
+  <li>Contribute to open-source projects</li>
+  <li>Master NLP and Deep Learning</li>
+  <li>Create interactive dashboards</li>
+  <li>Become a <b>Data Scientist / ML Engineer</b></li>
+</ul>
+
+<hr/>
+
+<h2>🤝 Let’s Connect</h2>
+<p>Open to collaborating on ML projects, dashboards, analytics, and research.</p>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kaggle-Follow-20B2AA?logo=kaggle"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-FF8C00?logo=firefox"></a>
+</div>
+
+<hr/>
+
+<h2>📊 GitHub Stats & Analytics</h2>
+
+<h3 align="center">🧮 GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PulkitSharma&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitSharma&layout=compact&theme=tokyonight" height="160">
+</div>
+
+<h3 align="center">🔥 Streak Stats</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PulkitSharma&theme=tokyonight">
+</div>
+
+<h3 align="center">🌱 Contribution Graph</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PulkitSharma&theme=tokyo-night">
+</div>
+
+<hr/>
+
+<h2>✨ Animated Tech Icons</h2>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="55">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="55">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="55">
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="55">
+<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="55">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55">
+</div>
+
+<hr/>
+
+<h2>💫 Fun Animated Section</h2>
+
+<h3 align="center">✨ Coding is Magic</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+</div>
+
+<h3 align="center">📈 Data + Machine Learning</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350">
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/learndata.sciencewith_pulkit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pulkitdataanalyst/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsmepulkitsharma@gmail.com) 
