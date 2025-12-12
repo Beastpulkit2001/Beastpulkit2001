@@ -7,11 +7,17 @@
 
 <div align="center">
 
-<h1>🌟 Pulkit Sharma 🌟</h1>
+    <h1>🌟 Pulkit Sharma 🌟</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&pause=1000&color=1E90FF&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Practitioner;Data+Analyst;AI+Enthusiast;Turning+Data+Into+Intelligence" />
+    <p>
+        <img 
+            src="https://readme-typing-svg.demolab.com?font=Calibri&size=28&pause=1000&color=1E90FF&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Practitioner;Data+Analyst;AI+Enthusiast;Turning+Data+Into+Intelligence" 
+            alt="Typing Animation"
+        />
+    </p>
 
 </div>
+
 
 <h2>👋 Hi, I'm Pulkit Sharma</h2>
 <p>
