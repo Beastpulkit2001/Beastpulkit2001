@@ -130,26 +130,6 @@ Passionate about transforming data into meaningful insights and building machine
 
 <hr/>
 
-<h2>📊 GitHub Stats & Analytics</h2>
-
-<h3 align="center">🧮 GitHub Stats</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PulkitSharma&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitSharma&layout=compact&theme=tokyonight" height="160">
-</div>
-
-<h3 align="center">🔥 Streak Stats</h3>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=PulkitSharma&theme=tokyonight">
-</div>
-
-<h3 align="center">🌱 Contribution Graph</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PulkitSharma&theme=tokyo-night">
-</div>
-
-<hr/>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/learndata.sciencewith_pulkit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pulkitdataanalyst/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsmepulkitsharma@gmail.com) 
 
